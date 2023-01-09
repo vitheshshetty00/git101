@@ -1,7 +1,5 @@
 <p align="center">
 <img src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif" style="vertical-align:middle"/>
-</p>
-<h3>heyyy</h3>
 
 <!-- Intro  -->
 <h3 align="center">
